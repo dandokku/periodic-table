@@ -365,7 +365,7 @@ export default function InteractivePeriodicTable({ elements = SAMPLE_DATA }) {
             Use arrow keys to navigate • Click elements for detailed information
           </div>
           <div className="text-xs text-gray-500">
-            Built with React • Designed for exploration and learning
+            Built with React • Designed for exploration and learning by Daniel Jesuloba Ajide
           </div>
         </div>
       </div>
